@@ -4,6 +4,7 @@ Like js,html,css.
 - 🌱 I’m currently learning laravel framework.
 - 💞️ I’m looking to collaborate on php.
 - 📫 How to reach me ...
+I'm full stack developer.
 
 <!---
 KingdomAmirmo/KingdomAmirmo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
