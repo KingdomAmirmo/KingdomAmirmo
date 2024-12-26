@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @KingdomAmirmo
-- 👀 I’m interested in php and MYSQL and front end
-Like js,html,css.
-- 🌱 I’m currently learning laravel framework.
-- 💞️ I’m looking to collaborate on php.
+- 👋 Hi, I’m Amirmohammad Akbari 
+- 👀 I’m interested in php, MYSQL, front end , Laravel, Livewire, wordpress and python.
+- 🌱 I’m working on Laravel and WordPress projects now.
 - 📫 How to reach me ...
-I'm full stack developer.
+I'm Backend Developer but I've some abilities in front end.
 
 <!---
 KingdomAmirmo/KingdomAmirmo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
